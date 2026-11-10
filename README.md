@@ -1,6 +1,6 @@
 # Research Study Tracker
 
-A hands-on Python project for practicing data cleaning, validation, analysis, and research study management in preparation for technical coding interviews.
+A hands-on Python project for practicing data cleaning, validation, analysis, and research study management.
 
 ## Project Structure
 
